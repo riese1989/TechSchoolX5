@@ -1,0 +1,69 @@
+[submodule "git_01"]
+	path = git_01
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/git_01.git
+[submodule "java-08"]
+	path = java-08
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-08.git
+[submodule "git_02"]
+	path = git_02
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/git_02.git
+[submodule "java-01"]
+	path = java-01
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-01.git
+[submodule "linux-vm"]
+	path = linux-vm
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/linux-vm.git
+[submodule "java-02"]
+	path = java-02
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-02.git
+[submodule "docker-1"]
+	path = docker-1
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/docker-1.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/postgresql.git
+[submodule "java-11"]
+	path = java-11
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-11.git
+[submodule "java-13"]
+	path = java-13
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-13.git
+[submodule "java-09_2"]
+	path = java-09_2
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-09_2
+[submodule "docker-2"]
+	path = docker-2
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/docker-2
+[submodule "java-14"]
+	path = java-14
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-14
+[submodule "aopdemo"]
+	path = aopdemo
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/aopdemo
+[submodule "java-07"]
+	path = java-07
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-07
+[submodule "java-06"]
+	path = java-06
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-06
+[submodule "java-10"]
+	path = java-10
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-10
+[submodule "lesson9"]
+	path = lesson9
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/lesson9
+[submodule "java-09"]
+	path = java-09
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-09
+[submodule "java-04"]
+	path = java-04
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-04
+[submodule "java-05"]
+	path = java-05
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-05
+[submodule "java-03"]
+	path = java-03
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/java-03
+[submodule "HW1"]
+	path = HW1
+	url = git@scm.x5.ru:techschool/202008/personal/Alexey.Pestov/HW1
